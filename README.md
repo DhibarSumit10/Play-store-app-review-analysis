@@ -5,11 +5,11 @@ Nowadays each individual comes up with lots of interesting ideas related to crea
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market. Each app (row) has values for catergory, rating, size, and more. Another dataset contains customer reviews of the android apps. Explore and analyze the data to discover key factors responsible for app engagement and success.
 
 ## Steps involved for Exploratory Data Analysis-
-Checking the outliars present in dataset by using visualization and removal of outliars.
-Removing the duplicate values.
-Operation with null values.
-Removal of special symbols.
-Checking the installation according to rating, types of application, top 20 installs according to genre by using visualization.
+* Checking the outliars present in dataset by using visualization and removal of outliars.
+* Removing the duplicate values.
+* Operation with null values.
+* Removal of special symbols.
+* Checking the installation according to rating, types of application, top 20 installs according to genre by using visualization.
 
 ## Conclusion-
 After completion of this project we got some conclusions -
