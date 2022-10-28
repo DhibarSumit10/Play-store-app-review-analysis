@@ -17,4 +17,4 @@ After completion of this project we got some conclusions-
 * Users prefer to install free applications more.
 * Communication category apps are in high demand for all type of users.
 * A part of our population ( 18-30 yr age people) use Gaming category applications a lot and give reviews according to their Sentiments. So developers have to keep proper attention while developing those apps or making change.
-* Users installs the application depends according to previous rating and reviews
+* Users installs the application depends according to previous rating and reviews.
